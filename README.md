@@ -1,6 +1,9 @@
 # TELECOMDB 📡
 
-Banco de dados Oracle simulado para uma empresa de telefonia celular com 10 lojas e 100 funcionários.
+HEAD
+
+Banco de dados Oracle para uma empresa de telefonia.
+64ef20a027fdd5164a328103ded01b77015ee01a
 
 ## Estrutura
 - `scripts/create_tables.sql` – Criação de tabelas e constraints
@@ -12,4 +15,7 @@ Banco de dados Oracle simulado para uma empresa de telefonia celular com 10 loja
 - Oracle XE
 - PL/SQL
 - VS Code com extensão Oracle Developer Tools
+<<<<<<< HEAD
 - SQL developer
+
+64ef20a027fdd5164a328103ded01b77015ee01a
